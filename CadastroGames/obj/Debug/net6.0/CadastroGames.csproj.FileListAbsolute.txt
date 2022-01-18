@@ -1,0 +1,15 @@
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\CadastroGames.exe
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\CadastroGames.deps.json
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\CadastroGames.runtimeconfig.json
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\CadastroGames.dll
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\ref\CadastroGames.dll
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\bin\Debug\net6.0\CadastroGames.pdb
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.csproj.AssemblyReference.cache
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.GeneratedMSBuildEditorConfig.editorconfig
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.AssemblyInfoInputs.cache
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.AssemblyInfo.cs
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.csproj.CoreCompileInputs.cache
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.dll
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\ref\CadastroGames.dll
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.pdb
+A:\Profissional e Estudos\DIO - Botcamp Avanade\Cadastro games\CadastroGames\obj\Debug\net6.0\CadastroGames.genruntimeconfig.cache
